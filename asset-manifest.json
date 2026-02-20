@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-softco/static/css/main.5ffd429c.css",
-    "main.js": "/react-softco/static/js/main.2986be6c.js",
+    "main.js": "/react-softco/static/js/main.b48603d2.js",
     "static/js/453.fd2f0c4a.chunk.js": "/react-softco/static/js/453.fd2f0c4a.chunk.js",
     "index.html": "/react-softco/index.html",
     "main.5ffd429c.css.map": "/react-softco/static/css/main.5ffd429c.css.map",
-    "main.2986be6c.js.map": "/react-softco/static/js/main.2986be6c.js.map",
+    "main.b48603d2.js.map": "/react-softco/static/js/main.b48603d2.js.map",
     "453.fd2f0c4a.chunk.js.map": "/react-softco/static/js/453.fd2f0c4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ffd429c.css",
-    "static/js/main.2986be6c.js"
+    "static/js/main.b48603d2.js"
   ]
 }
