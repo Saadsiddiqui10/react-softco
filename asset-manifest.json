@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//github.io/Saadsiddiqui10/react-softco/static/css/main.5809b83f.css",
-    "main.js": "//github.io/Saadsiddiqui10/react-softco/static/js/main.db94d0ad.js",
-    "static/js/453.fd2f0c4a.chunk.js": "//github.io/Saadsiddiqui10/react-softco/static/js/453.fd2f0c4a.chunk.js",
-    "index.html": "//github.io/Saadsiddiqui10/react-softco/index.html",
-    "main.5809b83f.css.map": "//github.io/Saadsiddiqui10/react-softco/static/css/main.5809b83f.css.map",
-    "main.db94d0ad.js.map": "//github.io/Saadsiddiqui10/react-softco/static/js/main.db94d0ad.js.map",
-    "453.fd2f0c4a.chunk.js.map": "//github.io/Saadsiddiqui10/react-softco/static/js/453.fd2f0c4a.chunk.js.map"
+    "main.css": "/react-softco/static/css/main.5809b83f.css",
+    "main.js": "/react-softco/static/js/main.42440526.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/react-softco/static/js/453.fd2f0c4a.chunk.js",
+    "index.html": "/react-softco/index.html",
+    "main.5809b83f.css.map": "/react-softco/static/css/main.5809b83f.css.map",
+    "main.42440526.js.map": "/react-softco/static/js/main.42440526.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/react-softco/static/js/453.fd2f0c4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5809b83f.css",
-    "static/js/main.db94d0ad.js"
+    "static/js/main.42440526.js"
   ]
 }
